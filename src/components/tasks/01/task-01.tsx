@@ -17,7 +17,7 @@ export const Task01: React.FC<Task01Props> = (className) => {
         <li>In this tutorial, you'll learn how you can view and visually edit <b>React</b> components using <b>Wix Component Studio</b>.</li>
         <li>Switch to <TaskSymbol name="preview" /> <b>Preview Mode</b> and hover over the shapes to erase them. Can you see what’s behind?</li>
         <li>If you need more space in your screen, click <TaskSymbol name="hamburger" /> to hide the left sidebar.</li>
-        <li>To reload and restore the shapes preview, just click <TaskSymbol name="reload" /> <b>Reload Preview</b>.</li>
+        <li>To reload and bring back the shapes, just click <TaskSymbol name="reload" /> <b>Reload Preview</b>.</li>
         <li>When ready, find your next lessons in the <b>Components list</b> on the left sidebar.</li>
       </ol>
     </div>

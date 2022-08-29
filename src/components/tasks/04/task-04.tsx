@@ -19,7 +19,7 @@ export const Task04: React.FC<Task04Props> = (className) => {
         <li> Double click on the <b>stage</b> to edit <br></br> the <TaskSymbol name="component" /><b>Lesson04</b> component.</li>
         <li> Select any <TaskTag type="stage-comp" chevron>Image</TaskTag>  tile on the <b>stage</b> and open the <TaskSymbol name="inspect" /><b>Computed Styles Panel</b>.</li>
         <li> Click<TaskSymbol name="edit"/> next to <b>height</b> to edit it on the <br /><b>Styles Panel</b>. Set it to <b>160px</b>.</li>
-        <li> Repeart steps <b>2</b> and <b>3</b> for all image tiles <br/>to fix the entire portrait.</li>
+        <li> Repeat steps <b>2</b> and <b>3</b> for all image tiles <br/>to fix the entire portrait.</li>
       </ol>
     </div>
   );
